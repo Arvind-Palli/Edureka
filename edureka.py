@@ -1,0 +1,2 @@
+print("Corona in INDIA")
+
